@@ -1,7 +1,6 @@
-:imagesdir: ../images
+ifndef::imagesdir[:imagesdir: ../images]
 
 == Describe cloud computing
-
 === Describe the shared responsibility model
 
 image::01-shared-responsibility-b3829bfe.svg[]
