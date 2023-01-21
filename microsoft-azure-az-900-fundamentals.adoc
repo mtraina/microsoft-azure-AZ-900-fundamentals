@@ -1,0 +1,6 @@
+= Microsoft Azure AZ-900 Fundamentals
+
+:imagesdir: images
+:toc: left
+
+include::01-describe-cloud-computing/describe-cloud-computing.adoc[]
