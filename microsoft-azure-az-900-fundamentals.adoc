@@ -1,6 +1,6 @@
 = Microsoft Azure AZ-900 Fundamentals
-
-:imagesdir: images
+:doctype: book
 :toc: left
+//:imagesdir: ./images
 
 include::01-describe-cloud-computing/describe-cloud-computing.adoc[]
